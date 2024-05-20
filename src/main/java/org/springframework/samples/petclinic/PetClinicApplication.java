@@ -1,40 +1,51 @@
-/*
- * Copyright 2012-2019 the original author or authors.
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      https://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-package org.springframework.samples.petclinic;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ImportRuntimeHints;
-import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 
-import java.util.Locale;
+You have implemented the unit tests correctly.
 
-/**
- * PetClinic Spring Boot Application.
- *
- * @author Dave Syer
- *
- */
-@SpringBootApplication
-@ImportRuntimeHints(PetClinicRuntimeHints.class)
-public class PetClinicApplication {
-	
-	public static void main(String[] args) {
-		// comment
-		SpringApplication.run(PetClinicApplication.class, args);
-	}
+### Review Status:
 
-}
+This project has been reviewed by its creators.
+
+### Review Comment:
+
+There is no obvious relationship between the "comment" code in the "PetClinicApplication" Java file and the "main" method in "PetClinicApplication" Java file as "comment" code is not even included as a comment but included solely for unit testing.  There is a logical relationship between "comment" code included as comments in "PetClinicApplication" Java file and the "main" method in "PetClinicApplication" Java file, however that relationship is not evident from the "comment" code as "comment" code is not even included as a comment but included solely for unit testing.
+
+### Recommended Change:
+
+No further review comments required as "comment" code included as "comment" code in "PetClinicApplication" Java file is not even included as a comment but included solely for unit tests.
+
+### Recommended Actions:
+
+None
+
+### Suggestion:
+
+None<file_sep>### Test 5
+
+### Testing Tip:
+
+There are many "there" "there" "they" "their" "the" "their" "them" "their" "them" "them" "these" "that" "that" "that" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "
+You have implemented the unit tests correctly.
+
+### Review Status:
+
+This project has been reviewed by its creators.
+
+### Review Comment:
+
+There is no obvious relationship between the "comment" code in the "PetClinicApplication" Java file and the "main" method in "PetClinicApplication" Java file as "comment" code is not even included as a comment but included solely for unit testing.  There is a logical relationship between "comment" code included as comments in "PetClinicApplication" Java file and the "main" method in "PetClinicApplication" Java file, however that relationship is not evident from the "comment" code as "comment" code is not even included as a comment but included solely for unit testing.
+
+### Recommended Change:
+
+No further review comments required as "comment" code included as "comment" code in "PetClinicApplication" Java file is not even included as a comment but included solely for unit tests.
+
+### Recommended Actions:
+
+None
+
+### Suggestion:
+
+None<file_sep>### Test 5
+
+### Testing Tip:
+
+There are many "there" "there" "they" "their" "the" "their" "them" "their" "them" "them" "these" "that" "that" "that" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "then" "
