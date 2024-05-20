@@ -35,5 +35,4 @@ public class PetClinicApplication {
 		// comment
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
-
 }
